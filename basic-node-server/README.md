@@ -21,11 +21,13 @@ The server is created using `http.createServer()` and listens for incoming HTTP 
 ## 🖥️ Output
 
 ### 1️⃣ Console Output (Server-side)
+
 The following screenshot shows the terminal output after starting the server:
 
 ![Console Output](output1.png)
 
 ### 2️⃣ Browser Output (Client-side)
+
 The following screenshot shows the response displayed in the browser:
 
 ![Browser Output](output2.png)
